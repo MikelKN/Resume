@@ -2,7 +2,7 @@
 
 This is a My first step to Building Clean, Beautiful and Accessible Website. 
 
-MY WEB DEVEOPMENT/ FRONT END DEVELOPER JOURNEY BEGINS WITH THIS project
+MY WEB DEVEOPMENT/ FRONT END DEVELOPER JOURNEY BEGINS WITH THIS PROJECT
 
 ## Table of contents
 
