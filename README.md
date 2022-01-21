@@ -53,7 +53,7 @@ Instructor: Angela Yu.
 - https://crop-circle.imageonline.co/ - Helps Transform images into cropped circles.
 
 ## Author
-
+My different account profiles on:
 - FreeCodeCamp - [@MikelD](https://www.freecodecamp.org/MikelD)
 - Frontend Mentor - [@MikelKN](https://www.frontendmentor.io/profile/MikelKN)
 - Kaggle - [@mikelkn](https://www.kaggle.com/mikelkn)
